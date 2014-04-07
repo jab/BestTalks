@@ -15,6 +15,14 @@ welcome!
 - [Stop Drawing Dead Fish](http://vimeo.com/64895205)
 - [The Future of Programming](http://vimeo.com/71278954)
 
+## Gerald Jay Sussman
+
+- [We Really Don't Know How To Compute!](http://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
+
+## Guy Steele
+
+- [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+
 ## Rich Hickey
 
 - See http://thechangelog.com/rich-hickeys-greatest-hits/
