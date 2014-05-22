@@ -27,3 +27,7 @@ welcome!
 ## Rich Hickey
 
 - See http://thechangelog.com/rich-hickeys-greatest-hits/
+
+## DHH
+
+- [Writing Software](http://www.confreaks.com/videos/3315-railsconf-keynote-writing-software)
