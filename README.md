@@ -22,7 +22,12 @@ welcome!
 ## Guy Steele
 
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+- [50 in 50](http://vimeo.com/25958308)
 
 ## Rich Hickey
 
 - See http://thechangelog.com/rich-hickeys-greatest-hits/
+
+## DHH
+
+- [Writing Software](http://www.confreaks.com/videos/3315-railsconf-keynote-writing-software)
