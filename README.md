@@ -23,6 +23,7 @@ welcome!
 
 - [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 
-## Rich Hickey
+## Rich Hickey / Clojure
 
 - See http://thechangelog.com/rich-hickeys-greatest-hits/
+- [Fertile Ground, the Roots of Clojure - Michael Fogus](https://www.youtube.com/watch?v=NnSpaR67hXg)
