@@ -7,6 +7,7 @@ welcome!
 
 - [OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 - [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc)
+- [Programming and Scaling - HPI-Colloquium (ST 2011)](http://www.tele-task.de/archive/video/flash/14029/)
 - [An Interview with Computing Pioneer Alan Kay](https://www.youtube.com/watch?v=tXoSK4tLxK8)
 
 ## Bret Victor
