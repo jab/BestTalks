@@ -3,6 +3,8 @@
 A collection of favorite talks about programming and technology. Pull requests
 welcome!
 
+See also https://github.com/matthiasn/talk-transcripts for transcripts of some of these and other great talks.
+
 ## Alan Kay
 
 - [OOPSLA 1997 - The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
