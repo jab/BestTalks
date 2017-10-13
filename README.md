@@ -30,3 +30,7 @@ See also https://github.com/matthiasn/talk-transcripts for transcripts of some o
 
 - See http://thechangelog.com/rich-hickeys-greatest-hits/
 - [Fertile Ground, the Roots of Clojure - Michael Fogus](https://www.youtube.com/watch?v=NnSpaR67hXg)
+
+** Jafar Husain
+
+- [The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw)
